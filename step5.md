@@ -32,7 +32,7 @@
 ### **REFRESH** your website in your Web Browser - do you see your image?
 
 
-## Awesome! You have completed the first steps to building your shop 🔥
+## Awesome! Starting adding your other images! You have completed the first steps to building your shop 🔥
 
 Experiement with the following HTML tags:
 
