@@ -2,6 +2,8 @@
 
 ![image](https://github.com/James-B-Dudley-Academy-of-Wilmington/html-shop/assets/38140593/99014ce0-f0d6-4510-8f96-bf0eb52bcec0)
 
+![image](https://github.com/James-B-Dudley-Academy-of-Wilmington/html-shop/assets/38140593/c3a838f4-a19d-4d85-81fe-917d6c77efd7)
+
 
 - What is your website's name?
 - What is your website's _motto_?
